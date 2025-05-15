@@ -7,7 +7,7 @@ A repository aggregating links to essential documentation, tutorials, and resear
 *  [Nand2Tetris](www.nand2tetris.org) : Build a Computer from First Principles (Highly Recommended) 
 *  [Namaste FPGA](https://namaste-fpga.com/)
 *  [Verifsudha](https://youtube.com/@verifsudha5307?si=drDc53asI19bBQhD) 
-*  [SystemVerilog Course Wiki (mbits-mirafra)](https://github.com/mbits-mirafra/SystemVerilogCourse/wiki) (Highly Recommended)
+*  [SystemVerilog Course Wiki (mbits-mirafra)](https://github.com/mbits-mirafra/SystemVerilogCourse/wiki) Highly Recommended
 *  [System Verilog Homework] (https://github.com/yuri-panchul/systemverilog-homework/tree/main)
 *  [SVunit] (https://verificationacademy.com/sessions/introduction-to-SVUnit)
 *  [Quick Silicon] (https://quicksilicon.in/)
