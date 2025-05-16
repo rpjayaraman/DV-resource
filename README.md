@@ -32,7 +32,10 @@ A curated collection of essential documentation, tutorials, research papers, and
 *   🔗 [SVUnit Introduction (Verification Academy)](https://verificationacademy.com/sessions/introduction-to-SVUnit) - Learn about the SVUnit testing framework.
 *   🔗 [Quick Silicon](https://quicksilicon.in/) - VLSI training and resources.
 *   🔗 [Udemy Robin Garg](https://www.udemy.com/course/upf-power-aware-design-verification) - UPF Course
-*   🔗 [VLSI SYSTEM DESIGN](https://www.vlsisystemdesign.com/) - UPF Course
+*   🔗 [VLSI SYSTEM DESIGN](https://www.vlsisystemdesign.com/) 
+*   🔗 [Onur Mutlu Lectures](https://www.youtube.com/onurmutlulectures) - Computer Arch
+*   🔗 [Smruti R. Sarangi](https://www.cse.iitd.ac.in/~srsarangi/advbook/index.html) - Computer Arch
+
    
 
 ## 🤝 Community Projects
@@ -103,14 +106,15 @@ A curated collection of essential documentation, tutorials, research papers, and
 *   📄 [AssertLLM (arXiv)](https://arxiv.org/pdf/2402.00386)
 *   📄 [Optimizing Design Verification using Machine
 Learning: Doing better than Random (arXiv)](https://arxiv.org/pdf/1909.13168)
-*   
+*   📄 [DVCon Papers, Posters, Presentations and Video Archive](https://dvcon-proceedings.org/)
+*   📄 [SUNBURST DESIGN-UVM](http://www.sunburst-design.com/papers/)
+
 
 ## 📰 Substack & Blogs
 
 *   ✍️ [The Chip Letter](https://thechipletter.substack.com/)
 *   ✍️ [Zach's Tech Blog](https://www.zach.be/)
 *   ✍️ [More than Moore (Ian Cutress)](https://substack.com/@morethanmoore)
-*   (*Looking for more great blogs/Substacks! Add yours via a PR.*)
 
 ## ⚙️ Reverse Engineering
 
