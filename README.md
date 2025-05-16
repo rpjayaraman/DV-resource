@@ -82,7 +82,7 @@ A curated collection of essential documentation, tutorials, research papers, and
 *   🔗 [LLM4DV](https://github.com/ZixiBenZhang/ml4dv) - LLM4DV is a benchmarking framework utilising large language models in hardware design verification. 
 *   🔗 [Awesome HDL Languages]](https://github.com/drom/awesome-hdl) - A curated list of amazingly awesome hardware description language projects.
 *   🔗 [awesome-open-hardware-verification](https://github.com/ben-marshall/awesome-open-hardware-verification) - A List of Free and Open Source Hardware Verification Tools and Frameworks
-*   🔗 [RTL2UVM] (https://github.com/rpjayaraman/RTL2UVM) - Automated UVM TB generation with RTL
+*   🔗 [RTL2UVM](https://github.com/rpjayaraman/RTL2UVM) - Automated UVM TB generation with RTL
 
  
 
