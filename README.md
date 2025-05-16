@@ -33,6 +33,8 @@ A curated collection of essential documentation, tutorials, research papers, and
 *   🔗 [SystemVerilog Homework (yuri-panchul)](https://github.com/yuri-panchul/systemverilog-homework/tree/main) - Practice exercises for SystemVerilog.
 *   🔗 [SVUnit Introduction (Verification Academy)](https://verificationacademy.com/sessions/introduction-to-SVUnit) - Learn about the SVUnit testing framework.
 *   🔗 [Quick Silicon](https://quicksilicon.in/) - VLSI training and resources.
+*   🔗 [Udemy-Robin Garg](https://www.udemy.com/course/upf-power-aware-design-verification) - UPF Course
+*   
 
 ## 🤝 Community Projects
 
