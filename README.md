@@ -75,6 +75,9 @@ A curated collection of essential documentation, tutorials, research papers, and
 *   🔗 [SV2V](https://github.com/zachjs/sv2v) - SystemVerilog to Verilog converter.
 *   🔗 [VLSI Stuff](https://github.com/greenblat/vlsistuff) - Ideas and EDA software for VLSI design.
 *   🔗 [VORTEX RISCV GPU](https://github.com/vortexgpgpu/vortex) - Vortex is a full-stack open-source RISC-V GPGPU.
+*   🔗 [VeRLPy](https://github.com/aebeljs/VeRLPy) - Python Library for Verification of Digital Designs with Reinforcement Learning 
+*   🔗 [LLM4DV](https://github.com/ZixiBenZhang/ml4dv) - LLM4DV is a benchmarking framework utilising large language models in hardware design verification. 
+*   
 
 ### 📺 YouTube Channels & Videos
 
@@ -95,6 +98,11 @@ A curated collection of essential documentation, tutorials, research papers, and
 *   📄 [I Created the Verification Gap (DVCon)](https://dvcon-proceedings.org/wp-content/uploads/i-created-the-verification-gap.pdf)
 *   📄 [Designing Chips with AI (arXiv)](https://arxiv.org/abs/2305.13243)
 *   📄 [eGPU (arXiv)](https://arxiv.org/pdf/2505.08421v1)
+*   📄 [LLM4DV (arXiv)](https://arxiv.org/pdf/2310.04535)
+*   📄 [veRLpy (arXiv)](https://arxiv.org/pdf/2108.03978)
+*   📄 [AssertLLM (arXiv)](https://arxiv.org/pdf/2402.00386)
+*   📄 [Optimizing Design Verification using Machine
+Learning: Doing better than Random (arXiv)](https://arxiv.org/pdf/1909.13168)
 *   
 
 ## 📰 Substack & Blogs
