@@ -19,8 +19,6 @@ A curated collection of essential documentation, tutorials, research papers, and
 *   [📄 Papers](#-papers)
 *   [📰 Substack & Blogs](#-substack--blogs)
 *   [⚙️ Reverse Engineering](#️-reverse-engineering)
-*   [💖 How to Contribute](#-how-to-contribute)
-*   [📜 License](#-license)
 
 ---
 
@@ -33,8 +31,9 @@ A curated collection of essential documentation, tutorials, research papers, and
 *   🔗 [SystemVerilog Homework (yuri-panchul)](https://github.com/yuri-panchul/systemverilog-homework/tree/main) - Practice exercises for SystemVerilog.
 *   🔗 [SVUnit Introduction (Verification Academy)](https://verificationacademy.com/sessions/introduction-to-SVUnit) - Learn about the SVUnit testing framework.
 *   🔗 [Quick Silicon](https://quicksilicon.in/) - VLSI training and resources.
-*   🔗 [Udemy-Robin Garg](https://www.udemy.com/course/upf-power-aware-design-verification) - UPF Course
-*   
+*   🔗 [Udemy Robin Garg](https://www.udemy.com/course/upf-power-aware-design-verification) - UPF Course
+*   🔗 [VLSI SYSTEM DESIGN](https://www.vlsisystemdesign.com/) - UPF Course
+   
 
 ## 🤝 Community Projects
 
@@ -62,30 +61,41 @@ A curated collection of essential documentation, tutorials, research papers, and
 
 ## 📚 Resources
 
-*   🔗 [VLSI Resources](https://vlsiresources.com/frontendvlsi/) - A hub for frontend VLSI resources.
-*   🔗 [OpenTitan DV (GitHub)](https://github.com/lowRISC/opentitan/tree/master/hw/dv) - Design Verification environment for the OpenTitan project.
-*   🔗 [Ibex UVM (GitHub)](https://github.com/lowRISC/ibex/tree/master/dv/uvm) - UVM-based verification environment for the Ibex RISC-V core.
-*   🔗 [AXI VIP (GitHub)](https://github.com/kumarrishav14/AXI) - AXI Verification IP.
-*   🔗 [schoolRISCV (GitHub)](https://github.com/zhelnio/schoolRISCV) - Step-by-step CPU microarchitecture development.
-*   🔗 [VLSI Stuff (GitHub)](https://github.com/greenblat/vlsistuff) - Ideas and EDA software for VLSI design.
-*   🔗 [10-Gigabit Ethernet MAC Core UVM Verification (GitHub)](https://github.com/Youssefmdany/10-Gigabit-Ethernet-MAC-Core-UVM-Verification-) - Example UVM project.
-*   🔗 [CHIPS Alliance (GitHub)](https://github.com/chipsalliance) - Common Hardware for Interfaces, Processors and Systems.
-*   🔗 [Edalize (GitHub)](https://github.com/olofk/edalize) - An abstraction library for interfacing EDA tools.
+### 💻 GitHub Repositories
+
+*   🔗 [AXI VIP](https://github.com/kumarrishav14/AXI) - AXI Verification IP.
+*   🔗 [CHIPS Alliance](https://github.com/chipsalliance) - Common Hardware for Interfaces, Processors and Systems.
+*   🔗 [Design Patterns in SV](https://github.com/hanysalah/Design-Pattern-in-SV) - Implementing design patterns in SystemVerilog.
+*   🔗 [Edalize](https://github.com/olofk/edalize) - An abstraction library for interfacing EDA tools.
+*   🔗 [Ethernet MAC Core UVM Verification (10-Gigabit)](https://github.com/Youssefmdany/10-Gigabit-Ethernet-MAC-Core-UVM-Verification-) - Example UVM project for a 10G Ethernet MAC.
+*   🔗 [Ibex UVM](https://github.com/lowRISC/ibex/tree/master/dv/uvm) - UVM-based verification environment for the Ibex RISC-V core.
+*   🔗 [NoobsCpu-8bit](https://github.com/supratimdas/NoobsCpu-8bit#this-is-a-simple-toy-barebones-8bit-cpu-architecture-for-fun-as-a-side-project) - A simple 8-bit CPU architecture for learning.
+*   🔗 [OpenTitan DV](https://github.com/lowRISC/opentitan/tree/master/hw/dv) - Design Verification environment for the OpenTitan project.
+*   🔗 [schoolRISCV](https://github.com/zhelnio/schoolRISCV) - Step-by-step CPU microarchitecture development.
+*   🔗 [SV2V](https://github.com/zachjs/sv2v) - SystemVerilog to Verilog converter.
+*   🔗 [VLSI Stuff](https://github.com/greenblat/vlsistuff) - Ideas and EDA software for VLSI design.
+*   🔗 [VORTEX RISCV GPU](https://github.com/vortexgpgpu/vortex) - Vortex is a full-stack open-source RISC-V GPGPU.
+
+### 📺 YouTube Channels & Videos
+
+*   📹 [What The Bug](https://youtube.com/@wt_bug?si=6KTWh0OqbUOW_5Xm) - Videos on debugging and verification concepts.
+
+### 🌐 Websites, Blogs & Articles
+
+*   🔗 [Awesome OpenSource SystemVerilog Projects](https://awesomeopensource.com/projects/systemverilog) - A curated list of open-source SV projects.
 *   📄 [How to Do Logging in UVM (CFS Vision)](https://cfs-vision.com/2022/09/21/systemverilog-tip-how-to-do-logging-in-uvm/) - Tips on UVM logging.
-*   🔗 [Awesome OpenSource SystemVerilog Projects](https://awesomeopensource.com/projects/systemverilog) - A list of open-source SV projects.
-*   🔗 [Verification Explorer](https://www.verification-explorer.com/) - Blog and resources on verification.
+*   📄 [Inheritance and Polymorphism of SystemVerilog OOP for UVM (EDN)](https://www.edn.com/inheritance-and-polymorphism-of-systemverilog-oop-for-uvm-verification/) - Article on SV OOP concepts for UVM.
+*   🔗 [Verification Explorer](https://www.verification-explorer.com/) - Blog and resources on various verification topics.
 *   🔗 [Verification Guide](https://verificationguide.com/) - Tutorials and articles on SystemVerilog and UVM.
-*   🔗 [SV2V (GitHub)](https://github.com/zachjs/sv2v) - SystemVerilog to Verilog converter.
-*   🔗 [Design Patterns in SV (GitHub)](https://github.com/hanysalah/Design-Pattern-in-SV) - Implementing design patterns in SystemVerilog.
-*   🔗 [NoobsCpu-8bit (GitHub)](https://github.com/supratimdas/NoobsCpu-8bit#this-is-a-simple-toy-barebones-8bit-cpu-architecture-for-fun-as-a-side-project) - A simple 8-bit CPU architecture.
-*   📄 [Inheritance and Polymorphism of SystemVerilog OOP for UVM (EDN)](https://www.edn.com/inheritance-and-polymorphism-of-systemverilog-oop-for-uvm-verification/) - Article on SV OOP concepts.
-*   📹 [What The Bug (YouTube)](https://youtube.com/@wt_bug?si=6KTWh0OqbUOW_5Xm) - Videos on debugging and verification.
+*   🔗 [VLSI Resources](https://vlsiresources.com/frontendvlsi/) - A hub for frontend VLSI learning materials.
 
 ## 📄 Papers
 
 *   📄 [Optimizing Design Verification using Machine Learning: Doing better than Random (arXiv)](https://arxiv.org/pdf/1909.13168)
 *   📄 [I Created the Verification Gap (DVCon)](https://dvcon-proceedings.org/wp-content/uploads/i-created-the-verification-gap.pdf)
 *   📄 [Designing Chips with AI (arXiv)](https://arxiv.org/abs/2305.13243)
+*   📄 [eGPU (arXiv)](https://arxiv.org/pdf/2505.08421v1)
+*   
 
 ## 📰 Substack & Blogs
 
