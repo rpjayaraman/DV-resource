@@ -44,7 +44,7 @@ A curated collection of essential documentation, tutorials, research papers, and
 *   🔗 [FOSSi Foundation](https://fossi-foundation.org/) - Free and Open Source Silicon Foundation.
 *   🔗 [Tiny Tapeout](https://tinytapeout.com/) - Get your designs manufactured on a real chip! Great for learning.
 *   🔗 [Verilog Meetup](https://verilog-meetup.com/) - Community for Verilog enthusiasts.
-*   🔗 [BharatSemi](LINK_NEEDED_HERE) - (*ADD Whatsapp invite*)
+*   🔗 [BharatSemi](https://chat.whatsapp.com/E4u3ifBmnGtKlfKngbkXky)
 *   🔗 [MicroArch Club](https://microarch.club/) - Discussions and resources on microarchitecture.
 *   🔗 [OpenHW Group (GitHub)](https://github.com/openhwgroup) - Open-source hardware development.
 
