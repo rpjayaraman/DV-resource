@@ -90,6 +90,9 @@ A curated collection of essential documentation, tutorials, research papers, and
 
 *   📹 [What The Bug](https://youtube.com/@wt_bug?si=6KTWh0OqbUOW_5Xm) - Videos on debugging and verification concepts.
 
+*   📹 [Mathematical Foundations of Generative Al](https://youtube.com/playlist?list=PLZ2ps__7DhBa5xCmncgH7kPqLqMBq7xlu&si=w-6VFakiVgdhiM2p)
+
+
 ### 🌐 Websites, Blogs & Articles
 
 *   🔗 [Awesome OpenSource SystemVerilog Projects](https://awesomeopensource.com/projects/systemverilog) - A curated list of open-source SV projects.
