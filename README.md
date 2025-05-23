@@ -19,6 +19,8 @@ A curated collection of essential documentation, tutorials, research papers, and
 *   [📄 Papers](#-papers)
 *   [📰 Substack & Blogs](#-substack--blogs)
 *   [⚙️ Reverse Engineering](#️-reverse-engineering)
+*   [📚 Books](#-books)
+
 
 ---
 
@@ -129,7 +131,7 @@ Learning: Doing better than Random (arXiv)](https://arxiv.org/pdf/1909.13168)
 *   📄 [Deep Neural Network Hardware Accelerator](https://www.scribd.com/document/403335620/Deep-NN-Hardware-Accelerator-Documentation) -  **Highly Recommended** ⭐
       * [GitHub Repo for Deep Neural Network Hardware Accelerator Project](https://github.com/StefanSredojevic/Deep-Neural-Network-Hardware-Accelerator)         
 
-    
+
 
 
 
@@ -144,7 +146,10 @@ Learning: Doing better than Random (arXiv)](https://arxiv.org/pdf/1909.13168)
 
 *   🔗 [Reverse-engineering the vintage MC14500B](http://www.righto.com/2021/02/a-one-bit-processor-explained-reverse.html?m=1) - Fascinating look at a 1-bit processor.
 *   📹 [Reverse Engineering 101 (YouTube)](https://youtu.be/gh2RXE9BIN8?si=kM4ZaWWmvAOuDgKM) - Introduction to reverse engineering.
+    
+## 📚 Books 
 
+* ff
 ---
 
 
