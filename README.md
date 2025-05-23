@@ -133,9 +133,6 @@ Learning: Doing better than Random (arXiv)](https://arxiv.org/pdf/1909.13168)
 
 
 
-
-
-
 ## 📰 Substack & Blogs
 
 *   ✍️ [The Chip Letter](https://thechipletter.substack.com/)
@@ -149,7 +146,11 @@ Learning: Doing better than Random (arXiv)](https://arxiv.org/pdf/1909.13168)
     
 ## 📚 Books 
 
-* ff
+* [Practical UVM: Step by Step with IEEE 1800.2](https://www.amazon.in/Practical-UVM-Step-IEEE-1800-2/dp/0997789611) - UVM
+* [The Elements of Computing Systems, second edition: Building a Modern Computer from First Principles](https://www.amazon.in/Elements-Computing-Systems-second-Principles/dp/0262539802)
+* [SystemVerilog for Verification: A Guide to Learning the Testbench Language Features](https://www.amazon.in/SystemVerilog-Verification-Learning-Testbench-Language/dp/144194561X)
+* [SystemVerilog Assertions Handbook, 4th Edition: ... for Dynamic and Formal Verification by Ben Cohen Srinivasan Venkataramanan Ajeetha Kumari Lisa Piper](https://www.amazon.in/SystemVerilog-Assertions-Handbook-4th-Venkataramanan/dp/B01FIX6F48)
+* [Python for RTL Verification: A complete course in Python, cocotb, and pyuvm](https://www.amazon.in/Python-RTL-Verification-complete-course-ebook/dp/B0BCZ9L4SR)
 ---
 
 
