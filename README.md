@@ -25,6 +25,7 @@ A curated collection of essential documentation, tutorials, research papers, and
 ## 🎓 Courses
 
 *   🔗 [Nand2Tetris](http://www.nand2tetris.org) - Build a Computer from First Principles. **Highly Recommended** ⭐
+*   🔗 [MIT OpenCourseware - VLSI](https://ocw.mit.edu/search/?q=vlsi) - MIT OpenCourseWare is an online publication of materials from over 2,500 MIT courses, freely sharing knowledge with learners and educators around the world. **Highly Recommended** ⭐
 *   🔗 [Namaste FPGA](https://namaste-fpga.com/) - Practical FPGA learning.
 *   🔗 [Verifsudha (YouTube)](https://youtube.com/@verifsudha5307?si=drDc53asI19bBQhD) - SystemVerilog and UVM tutorials.
 *   🔗 [SystemVerilog Course Wiki (mbits-mirafra)](https://github.com/mbits-mirafra/SystemVerilogCourse/wiki) - Comprehensive SystemVerilog course. **Highly Recommended** ⭐
@@ -35,6 +36,7 @@ A curated collection of essential documentation, tutorials, research papers, and
 *   🔗 [VLSI SYSTEM DESIGN](https://www.vlsisystemdesign.com/) 
 *   🔗 [Onur Mutlu Lectures](https://www.youtube.com/onurmutlulectures) - Computer Arch
 *   🔗 [Smruti R. Sarangi](https://www.cse.iitd.ac.in/~srsarangi/advbook/index.html) - Computer Arch
+*   
 
    
 
@@ -83,6 +85,7 @@ A curated collection of essential documentation, tutorials, research papers, and
 *   🔗 [Awesome HDL Languages](https://github.com/drom/awesome-hdl) - A curated list of amazingly awesome hardware description language projects.
 *   🔗 [awesome-open-hardware-verification](https://github.com/ben-marshall/awesome-open-hardware-verification) - A List of Free and Open Source Hardware Verification Tools and Frameworks
 *   🔗 [RTL2UVM](https://github.com/rpjayaraman/RTL2UVM) - Automated UVM TB generation with RTL
+*   🔗 [SoC-DV-UVM](https://github.com/PacoReinaCampo) - SoC Verification with UVM
 
  
 
@@ -101,6 +104,7 @@ A curated collection of essential documentation, tutorials, research papers, and
 *   🔗 [Verification Explorer](https://www.verification-explorer.com/) - Blog and resources on various verification topics.
 *   🔗 [Verification Guide](https://verificationguide.com/) - Tutorials and articles on SystemVerilog and UVM.
 *   🔗 [VLSI Resources](https://vlsiresources.com/frontendvlsi/) - A hub for frontend VLSI learning materials.
+*   🔗 [WikiChip](https://fuse.wikichip.org/) - WikiChip Fuse section publishes chips and semiconductor-related news
 
 ## 📄 Papers
 
@@ -115,6 +119,19 @@ A curated collection of essential documentation, tutorials, research papers, and
 Learning: Doing better than Random (arXiv)](https://arxiv.org/pdf/1909.13168)
 *   📄 [DVCon Papers, Posters, Presentations and Video Archive](https://dvcon-proceedings.org/)
 *   📄 [SUNBURST DESIGN-UVM](http://www.sunburst-design.com/papers/)
+*   📄 [“Half-Fast” Bitcoin Miner: Open-Source Bitcoin Mining with FPGA](https://www.cs.columbia.edu/~sedwards/classes/2014/4840/reports/Half-fast.pdf)
+*   📄 [Design Patterns by Example for SystemVerilog Verification Environments Enabled by SystemVerilog 1800-2012](https://dvcon-proceedings.org/wp-content/uploads/design-patterns-by-example-for-systemverilog-verification-environments-enabled-by-systemverilog-1800-2012-presentation.pdf)
+     ### HFT
+*   📄 [High Frequency Trade Book Builder using FPGA](https://www.cs.columbia.edu/~sedwards/classes/2024/4840-spring/designs/HFT-Book-Builder.pdf)
+*   📄 [HFT Book Builder Implemented on DE1-SOC FPGA board](https://www.cs.columbia.edu/~sedwards/classes/2024/4840-spring/reports/HFT-Book-Builder-report.pdf)
+*   📄 []()
+     ### Neural Network Hardware Accelerator
+*   📄 [Deep Neural Network Hardware Accelerator](https://www.scribd.com/document/403335620/Deep-NN-Hardware-Accelerator-Documentation) -  **Highly Recommended** ⭐
+      * [GitHub Repo for Deep Neural Network Hardware Accelerator Project](https://github.com/StefanSredojevic/Deep-Neural-Network-Hardware-Accelerator)         
+
+    
+
+
 
 
 ## 📰 Substack & Blogs
