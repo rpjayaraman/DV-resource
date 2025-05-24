@@ -126,7 +126,7 @@ Learning: Doing better than Random (arXiv)](https://arxiv.org/pdf/1909.13168)
      ### HFT
 *   📄 [High Frequency Trade Book Builder using FPGA](https://www.cs.columbia.edu/~sedwards/classes/2024/4840-spring/designs/HFT-Book-Builder.pdf)
 *   📄 [HFT Book Builder Implemented on DE1-SOC FPGA board](https://www.cs.columbia.edu/~sedwards/classes/2024/4840-spring/reports/HFT-Book-Builder-report.pdf)
-*   📄 []()
+*   📄 [HFT Interview Preparation](https://thedatabus.in/hft_interview)
      ### Neural Network Hardware Accelerator
 *   📄 [Deep Neural Network Hardware Accelerator](https://www.scribd.com/document/403335620/Deep-NN-Hardware-Accelerator-Documentation) -  **Highly Recommended** ⭐
       * [GitHub Repo for Deep Neural Network Hardware Accelerator Project](https://github.com/StefanSredojevic/Deep-Neural-Network-Hardware-Accelerator)         
