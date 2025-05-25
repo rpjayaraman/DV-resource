@@ -123,6 +123,7 @@ Learning: Doing better than Random (arXiv)](https://arxiv.org/pdf/1909.13168)
 *   📄 [SUNBURST DESIGN-UVM](http://www.sunburst-design.com/papers/)
 *   📄 [“Half-Fast” Bitcoin Miner: Open-Source Bitcoin Mining with FPGA](https://www.cs.columbia.edu/~sedwards/classes/2014/4840/reports/Half-fast.pdf)
 *   📄 [Design Patterns by Example for SystemVerilog Verification Environments Enabled by SystemVerilog 1800-2012](https://dvcon-proceedings.org/wp-content/uploads/design-patterns-by-example-for-systemverilog-verification-environments-enabled-by-systemverilog-1800-2012-presentation.pdf)
+*   📄 [ASIC Design for Bitcoin Mining](https://zwtaoumich.github.io/paper/EECS570_Final_Report.pdf) - [Code](https://github.com/susansun1999/eecs570_final_project)
      ### HFT
 *   📄 [High Frequency Trade Book Builder using FPGA](https://www.cs.columbia.edu/~sedwards/classes/2024/4840-spring/designs/HFT-Book-Builder.pdf)
 *   📄 [HFT Book Builder Implemented on DE1-SOC FPGA board](https://www.cs.columbia.edu/~sedwards/classes/2024/4840-spring/reports/HFT-Book-Builder-report.pdf)
