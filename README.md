@@ -107,6 +107,7 @@ A curated collection of essential documentation, tutorials, research papers, and
 *   🔗 [Verification Guide](https://verificationguide.com/) - Tutorials and articles on SystemVerilog and UVM.
 *   🔗 [VLSI Resources](https://vlsiresources.com/frontendvlsi/) - A hub for frontend VLSI learning materials.
 *   🔗 [WikiChip](https://fuse.wikichip.org/) - WikiChip Fuse section publishes chips and semiconductor-related news
+*   🔗 [UVM DEBUGGING TIPS](https://ignitarium.com/top-uvm-debugging-hacks-that-will-transform-your-workflow/?utm_source=LinkedIn&utm_medium=Blog&utm_campaign=Top+UVM+Debugging+Hacks+that+will+transform+your+workflow)
 
 ## 📄 Papers
 
