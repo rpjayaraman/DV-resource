@@ -89,6 +89,8 @@ A curated collection of essential documentation, tutorials, research papers, and
 *   🔗 [RTL2UVM](https://github.com/rpjayaraman/RTL2UVM) - Automated UVM TB generation with RTL
 *   🔗 [SoC-DV-UVM](https://github.com/PacoReinaCampo) - SoC Verification with UVM
 
+* 🔗 [Tiny TPU](https://github.com/tiny-tpu-v2/tiny-tpu)
+
  
 
 ### 📺 YouTube Channels & Videos
