@@ -135,6 +135,7 @@ Learning: Doing better than Random (arXiv)](https://arxiv.org/pdf/1909.13168)
 *   📄 [Deep Neural Network Hardware Accelerator](https://www.scribd.com/document/403335620/Deep-NN-Hardware-Accelerator-Documentation) -  **Highly Recommended** ⭐
 * [GitHub Repo for Deep Neural Network Hardware Accelerator Project](https://github.com/StefanSredojevic/Deep-Neural-Network-Hardware-Accelerator)
  * [LLM Papers Related to VLSI](https://github.com/Thinklab-SJTU/Awesome-LLM4EDA)
+* [Awesome Artificial Intelligence for Electronic Design Automation Papers](https://github.com/Thinklab-SJTU/awesome-ai4eda)
 
 
 
