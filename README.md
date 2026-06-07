@@ -38,7 +38,7 @@ A curated collection of essential documentation, tutorials, research papers, and
 *   🔗 [VLSI SYSTEM DESIGN](https://www.vlsisystemdesign.com/) 
 *   🔗 [Onur Mutlu Lectures](https://www.youtube.com/onurmutlulectures) - Computer Arch
 *   🔗 [Smruti R. Sarangi](https://www.cse.iitd.ac.in/~srsarangi/advbook/index.html) - Computer Arch
-*   
+*   🔗 [SV/UVM Tutorial](https://thomasnormal.github.io/sv-tutorial/) - NORAML COMPUTING
 
    
 
@@ -90,6 +90,7 @@ A curated collection of essential documentation, tutorials, research papers, and
 *   🔗 [SoC-DV-UVM](https://github.com/PacoReinaCampo) - SoC Verification with UVM
 
 * 🔗 [Tiny TPU](https://github.com/tiny-tpu-v2/tiny-tpu)
+* * 🔗 [riscv-simple](https://github.com/arthurbeggs/riscv-simple)
 
  
 
