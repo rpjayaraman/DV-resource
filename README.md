@@ -70,6 +70,7 @@ A curated collection of essential documentation, tutorials, research papers, and
 
 ### 💻 GitHub Repositories
 
+*   🔗 [TINY TPU GITHUB](https://github.com/deaneeth/tiny-tpu) || [TINY_TPU VISUAL](https://tiny-tpu.vercel.app/#)
 *   🔗 [AXI VIP](https://github.com/kumarrishav14/AXI) - AXI Verification IP.
 *   🔗 [CHIPS Alliance](https://github.com/chipsalliance) - Common Hardware for Interfaces, Processors and Systems.
 *   🔗 [Design Patterns in SV](https://github.com/hanysalah/Design-Pattern-in-SV) - Implementing design patterns in SystemVerilog.
